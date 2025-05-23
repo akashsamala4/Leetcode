@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
