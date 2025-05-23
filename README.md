@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
@@ -14,4 +15,17 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
