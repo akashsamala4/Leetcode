@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/akashsamala4/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 ## Greedy
 |  |
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +28,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akashsamala4/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
