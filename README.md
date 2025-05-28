@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
@@ -44,10 +45,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akashsamala4/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Matrix
 |  |
