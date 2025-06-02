@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/akashsamala4/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/akashsamala4/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Greedy
