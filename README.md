@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/akashsamala4/Leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
