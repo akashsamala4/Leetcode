@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/akashsamala4/Leetcode/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/akashsamala4/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akashsamala4/Leetcode/tree/master/0078-subsets) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/akashsamala4/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/akashsamala4/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akashsamala4/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/akashsamala4/Leetcode/tree/master/0141-linked-list-cycle) |
