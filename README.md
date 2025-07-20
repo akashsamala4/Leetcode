@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/akashsamala4/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
 ## Two Pointers
 |  |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
