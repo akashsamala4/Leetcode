@@ -15,6 +15,7 @@
 | [0090-subsets-ii](https://github.com/akashsamala4/Leetcode/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/akashsamala4/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/akashsamala4/Leetcode/tree/master/0724-find-pivot-index) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Simulation
 |  |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
