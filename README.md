@@ -24,6 +24,7 @@
 | [0724-find-pivot-index](https://github.com/akashsamala4/Leetcode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Greedy
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
+| [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
