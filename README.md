@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/akashsamala4/Leetcode/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/akashsamala4/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/akashsamala4/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/akashsamala4/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -79,6 +80,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -120,4 +122,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
