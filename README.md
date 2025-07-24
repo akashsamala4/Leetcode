@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akashsamala4/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/akashsamala4/Leetcode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/akashsamala4/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akashsamala4/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -91,6 +92,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/akashsamala4/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/akashsamala4/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/akashsamala4/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/akashsamala4/Leetcode/tree/master/0078-subsets) |
