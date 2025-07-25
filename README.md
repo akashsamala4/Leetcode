@@ -154,4 +154,5 @@
 | [0177-nth-highest-salary](https://github.com/akashsamala4/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/akashsamala4/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/akashsamala4/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/akashsamala4/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
