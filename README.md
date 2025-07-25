@@ -146,4 +146,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/akashsamala4/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
