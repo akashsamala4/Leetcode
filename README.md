@@ -18,6 +18,7 @@
 | [0090-subsets-ii](https://github.com/akashsamala4/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akashsamala4/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+| [0162-find-peak-element](https://github.com/akashsamala4/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/akashsamala4/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Math
