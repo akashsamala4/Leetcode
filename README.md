@@ -29,6 +29,7 @@
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Greedy
@@ -48,6 +49,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
+| [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -63,6 +65,7 @@
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
+| [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -166,4 +170,5 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
