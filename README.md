@@ -32,6 +32,7 @@
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akashsamala4/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/akashsamala4/Leetcode/tree/master/0724-find-pivot-index) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akashsamala4/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,4 +173,12 @@
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akashsamala4/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Enumeration
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akashsamala4/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
