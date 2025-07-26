@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -149,10 +150,12 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
+| [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+| [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
