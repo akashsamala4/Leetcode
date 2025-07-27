@@ -30,6 +30,7 @@
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsamala4/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
