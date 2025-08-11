@@ -194,4 +194,16 @@
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akashsamala4/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/akashsamala4/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/akashsamala4/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/akashsamala4/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/akashsamala4/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
