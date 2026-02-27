@@ -84,6 +84,7 @@
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -211,4 +213,16 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akashsamala4/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/akashsamala4/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
