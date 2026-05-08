@@ -99,6 +99,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/akashsamala4/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/akashsamala4/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -119,6 +120,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/akashsamala4/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Backtracking
