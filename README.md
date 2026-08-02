@@ -32,6 +32,7 @@
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/akashsamala4/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/akashsamala4/Leetcode/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akashsamala4/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
+| [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
@@ -178,6 +180,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akashsamala4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+| [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -245,4 +248,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akashsamala4/Leetcode/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
