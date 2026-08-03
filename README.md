@@ -173,6 +173,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akashsamala4/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
@@ -257,4 +259,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
