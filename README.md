@@ -17,6 +17,7 @@
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/akashsamala4/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/akashsamala4/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akashsamala4/Leetcode/tree/master/0078-subsets) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
