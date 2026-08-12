@@ -38,6 +38,7 @@
 | [0890-lemonade-change](https://github.com/akashsamala4/Leetcode/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akashsamala4/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/akashsamala4/Leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akashsamala4/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsamala4/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
@@ -90,6 +91,7 @@
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Recursion
 |  |
