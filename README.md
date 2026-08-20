@@ -93,6 +93,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/akashsamala4/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/akashsamala4/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -147,6 +148,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/akashsamala4/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/akashsamala4/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/akashsamala4/Leetcode/tree/master/0046-permutations) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/akashsamala4/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akashsamala4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/akashsamala4/Leetcode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
