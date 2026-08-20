@@ -42,6 +42,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akashsamala4/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsamala4/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akashsamala4/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akashsamala4/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -133,6 +134,7 @@
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akashsamala4/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
