@@ -91,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/akashsamala4/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
@@ -138,6 +139,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/akashsamala4/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/akashsamala4/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/akashsamala4/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/akashsamala4/Leetcode/tree/master/0206-reverse-linked-list) |
@@ -189,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/akashsamala4/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/akashsamala4/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
