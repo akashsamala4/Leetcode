@@ -43,6 +43,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/akashsamala4/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akashsamala4/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3194-find-words-containing-character](https://github.com/akashsamala4/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akashsamala4/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -166,6 +167,7 @@
 | [0136-single-number](https://github.com/akashsamala4/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akashsamala4/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,6 +182,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/akashsamala4/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akashsamala4/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
@@ -277,6 +281,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Quicksort
 |  |
 | ------- |
@@ -289,4 +294,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
