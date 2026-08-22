@@ -193,6 +193,7 @@
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/akashsamala4/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/akashsamala4/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
