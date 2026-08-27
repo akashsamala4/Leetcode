@@ -157,12 +157,14 @@
 | [0051-n-queens](https://github.com/akashsamala4/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/akashsamala4/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/akashsamala4/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/akashsamala4/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/akashsamala4/Leetcode/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/akashsamala4/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akashsamala4/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/akashsamala4/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/akashsamala4/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/akashsamala4/Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/akashsamala4/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -190,6 +192,7 @@
 | [0048-rotate-image](https://github.com/akashsamala4/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
+| [0089-gray-code](https://github.com/akashsamala4/Leetcode/tree/master/0089-gray-code) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
