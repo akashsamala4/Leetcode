@@ -66,6 +66,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/akashsamala4/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akashsamala4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0771-jewels-and-stones](https://github.com/akashsamala4/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akashsamala4/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/akashsamala4/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -97,6 +98,7 @@
 | [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/akashsamala4/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/akashsamala4/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/akashsamala4/Leetcode/tree/master/3110-score-of-a-string) |
