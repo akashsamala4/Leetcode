@@ -97,6 +97,7 @@
 | [0012-integer-to-roman](https://github.com/akashsamala4/Leetcode/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/akashsamala4/Leetcode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/akashsamala4/Leetcode/tree/master/0139-word-break) |
+| [0412-fizz-buzz](https://github.com/akashsamala4/Leetcode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/akashsamala4/Leetcode/tree/master/0742-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/akashsamala4/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/akashsamala4/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -138,6 +139,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akashsamala4/Leetcode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/akashsamala4/Leetcode/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akashsamala4/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2479-meeting-rooms-iii](https://github.com/akashsamala4/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akashsamala4/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -196,6 +198,7 @@
 | [0062-unique-paths](https://github.com/akashsamala4/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akashsamala4/Leetcode/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/akashsamala4/Leetcode/tree/master/0089-gray-code) |
+| [0412-fizz-buzz](https://github.com/akashsamala4/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/akashsamala4/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/akashsamala4/Leetcode/tree/master/1013-fibonacci-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
