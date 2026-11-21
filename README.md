@@ -308,4 +308,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akashsamala4/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/akashsamala4/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
